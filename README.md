@@ -13,3 +13,11 @@ I am a first-year Front-End Development student with an interest in building cle
 ## Documents
 - CV
 - Cover Letter
+
+## GitHub Live page
+- Portofolio-1 : https://bjelland14.github.io/Portfolio-1/
+- HTML & CSS: https://bjelland14.github.io/HTML-og-CSS-CA/
+- RainyDaysJS: https://bjelland14.github.io/RainyDaysJS/
+- SP1 : https://bjelland14.github.io/Semester-Project-1/
+
+
