@@ -39,6 +39,12 @@ h1,h2,h3 {
     color: #0055cc;
 }
 
+.project-thumb {
+    width: 10%;
+    max-height: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+}
 .project-links a:hover{
     text-decoration: underline;
 }
